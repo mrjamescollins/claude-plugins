@@ -1,0 +1,8 @@
+{
+  "name": "cli-agent-skills",
+  "version": "1.0.0",
+  "description": "Skills for delegating research and code review to Gemini CLI and Codex CLI, keeping Claude Code's context window clean by running heavy lifting in bundled shell scripts.",
+  "author": {
+    "name": "mrjamescollins"
+  }
+}
