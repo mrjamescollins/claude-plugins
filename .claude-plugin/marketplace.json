@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mrjamescollins",
+  "description": "Personal Claude Code plugins by mrjamescollins",
+  "owner": {
+    "name": "mrjamescollins"
+  },
+  "plugins": [
+    {
+      "name": "cli-agent-skills",
+      "description": "Skills for delegating research and code review to Gemini CLI and Codex CLI, keeping Claude Code's context window clean.",
+      "source": "./plugins/cli-agent-skills",
+      "category": "development"
+    }
+  ]
+}
